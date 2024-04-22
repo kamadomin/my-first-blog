@@ -4,7 +4,7 @@ h1 a, h2 a {
     font-family: 'Lobster';
 }
 .page-header {
-    background-color: #C25100;
+    background-color: #f20fa3;
     margin-top: 0;
     margin-bottom: 40px;
     padding: 20px 20px 20px 40px;
@@ -64,12 +64,12 @@ h4 {
 
 .btn-secondary,
 .btn-secondary:visited {
-    color: #C25100;
+    color: #f49405;
     background: none;
-    border-color: #C25100;
+    border-color: #f1ac0a;
 }
 
 .btn-secondary:hover {
     color: #FFFFFF;
-    background-color: #C25100;
+    background-color: #ee9207;
 }
